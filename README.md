@@ -1,0 +1,1 @@
+Adapted from mrgravelord's "complete pokemon image dataset" on kaggle
